@@ -14,4 +14,7 @@
 \nYou should ask someone else about fishing, though.\n\n</string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="done">Done</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
